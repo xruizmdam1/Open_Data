@@ -8,9 +8,9 @@ using Xamarin.Forms;
 
 namespace Open_Data_Energia
 {
-    public partial class MainPage : ContentPage
+    public partial class MainWindow : TabbedPage
     {
-        public MainPage()
+        public MainWindow()
         {
             InitializeComponent();
         }
