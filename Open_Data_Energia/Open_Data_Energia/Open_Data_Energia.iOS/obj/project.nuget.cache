@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5AIzsDdFcJMfOjVqhP50Hy2STHjRbsZhfKiau689ENrGnp9l7IiFdSTgpiL8TsCge+ifaWC7MTCygzblXSKuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alumno\\Desktop\\Open_Data_Energia\\Open_Data_Energia\\Open_Data_Energia\\Open_Data_Energia.iOS\\Open_Data_Energia.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alumno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
