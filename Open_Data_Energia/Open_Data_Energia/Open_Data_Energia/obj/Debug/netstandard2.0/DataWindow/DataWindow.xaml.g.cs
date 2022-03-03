@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Open_Data_Energia.MainWindow.MainWindow.xaml", "MainWindow/MainWindow.xaml", typeof(global::Open_Data_Energia.MainWindow))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Open_Data_Energia.DataWindow.DataWindow.xaml", "DataWindow/DataWindow.xaml", typeof(global::Open_Data_Energia.DataWindow.DataWindow))]
 
-namespace Open_Data_Energia {
+namespace Open_Data_Energia.DataWindow {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainWindow\\MainWindow.xaml")]
-    public partial class MainWindow : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("DataWindow\\DataWindow.xaml")]
+    public partial class DataWindow : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainWindow));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DataWindow));
         }
     }
 }
